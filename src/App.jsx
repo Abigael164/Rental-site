@@ -3,6 +3,7 @@ import Products from "./pages/products/Products.jsx"
 import Home from "./pages/Home.jsx"
 import Products from "./pages/products/Products.jsx"
 import { Toaster } from "react-hot-toast"
+import { Contact } from "./pages/Contact.jsx"
 
 export default function App() {
   return( 
